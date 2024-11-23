@@ -9,3 +9,5 @@ This is a reference repository for the Conceptual Project Proposal submission fo
          pip install pandas numpy scikit-learn plotly openpyxl matplotlib
 
 ## Proposed Project Pipeline
+
+<img src="Pipeline.drawio.png" alt="Pipeline" width="1000"/>
