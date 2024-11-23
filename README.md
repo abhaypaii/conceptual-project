@@ -7,3 +7,5 @@ This is a reference repository for the Conceptual Project Proposal submission fo
   3. Run this following command
     
          pip install pandas numpy scikit-learn plotly openpyxl matplotlib
+
+## Proposed Project Pipeline
