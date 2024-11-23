@@ -10,4 +10,4 @@ This is a reference repository for the Conceptual Project Proposal submission fo
 
 ## Proposed Project Pipeline
 
-<img src="Pipeline.drawio.png" alt="Pipeline" width="1000"/>
+<img src="Pipeline.drawio.svg" alt="Pipeline" width="1000"/>
